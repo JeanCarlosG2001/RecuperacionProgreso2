@@ -22,7 +22,7 @@
                     }
                 }
             }
-            printf("se encontro %d \n",encontrado);
+            printf("se encontro %d resultados \n",encontrado);
             }
     
         
@@ -42,7 +42,7 @@
             }
         }
 
-        printf("se encontro %d \n",encontrado);
+        printf("se encontro %d resultados \n",encontrado);
 }   
   
     //   3.Por precio menor de: (Ingresar el precio limite, se debe imprimir todos los productos con precio menor al ingresado)
@@ -57,6 +57,6 @@
                     encontrado = 1;
                 }
             }
-            printf("se encontro %d \n",encontrado);
+            printf("se encontro %d resultados \n",encontrado);
 }
 
